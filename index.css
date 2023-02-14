@@ -1,0 +1,36 @@
+*{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+ }
+    table{
+        box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+        width: 90%;
+        margin: auto;
+    }
+
+    th{
+        /* border: 1px solid black; */
+        width: 7%;
+    
+   
+        font-size: 25px;
+       height: 100px;
+    }
+ td{
+        text-align: center;
+        /* border: 1px solid black; */
+        margin: 3% 5%;
+    }
+
+    img{
+        width: 15%;
+    }
+
+
+    tr:nth-child(even) {
+background-color: rgb(240,240,240)
+}
+
+    /* img{
+        border: 1px solid black;
+    } */ 
